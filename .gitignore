@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Database
+biografias-api/biografias.db
+*.db
+*.sqlite
+
+# Docker
+.env
+
+# IDEs
+.vscode/
+.idea/
